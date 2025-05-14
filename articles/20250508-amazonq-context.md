@@ -8,6 +8,10 @@ published: false
 
 ## はじめに
 
+https://zenn.dev/ymotongpoo/articles/20250408-qdev-profile-beta
+
+https://github.com/aws/amazon-q-developer-cli/pull/834
+
 ![](/images/20250508-amazonq-context/amazonq-context.drawio.png)
 
 Amazon Q Developer を使っていると、「どうすれば自分のプロジェクトに最適な回答を得られるだろう？」と思うことがあります。特にチーム開発では、コーディング規約やアーキテクチャの一貫性が重要です。そこで役立つのが「プロジェクトルール」機能です。この記事では、Amazon Q Developer のプロジェクトルールについて、初めて使う方でも理解できるように解説します。
