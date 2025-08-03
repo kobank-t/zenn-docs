@@ -8,6 +8,8 @@ published: false
 
 ## はじめに
 
+test
+
 https://zenn.dev/ymotongpoo/articles/20250408-qdev-profile-beta
 
 https://github.com/aws/amazon-q-developer-cli/pull/834
